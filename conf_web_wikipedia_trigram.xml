@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<webThesaurusConfiguration>
+	<protocol>http</protocol>
+	<server>maggie.lt.informatik.tu-darmstadt.de</server>
+	<port>10080</port>
+	<path>/jobim/</path>
+	<dataset>wikipediaTrigram</dataset>	
+</webThesaurusConfiguration>
